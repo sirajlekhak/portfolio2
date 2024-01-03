@@ -23,7 +23,7 @@ Provide a link to a live demo or showcase images/videos if applicable.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/sirajlekhak/portfolio2.git
     ```
 
 2. Open the project folder:
@@ -39,8 +39,6 @@ Provide a link to a live demo or showcase images/videos if applicable.
 Explain how to use your project, including any configuration settings or parameters.
 
 ## Dependencies
-
-List any external libraries or dependencies required to run your project. Include version numbers if necessary.
 
 - [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) v3.5.4
 - [remixicon](https://remixicon.com/) v3.5.0
