@@ -16,7 +16,7 @@ Just for fun and learning.
 
 ## Demo
 
-Link [https://sirajlekhak.github.io/portfolio2/](visit here for live preview)
+Link [https://sirajlekhak.github.io/portfolio2/]
 
 ## Installation
 
