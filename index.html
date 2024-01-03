@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Website</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="cursor">
+
+    </div>
+    <div id="main">
+        <div id="page1">
+            <h1>Code</h1>
+            <h1>the future</h1>
+            <div id="video-container">
+                <div id="play">PLAY</div>
+                <video autoplay loop muted src="./video.mp4"></video>
+            </div>
+        </div>
+        <div id="page2">
+            <div id="elem1" class="elem">
+                <img data-scroll data-scroll-speed="1" src="./photo1.jpg" alt="">
+                <div data-scroll data-scroll-speed="1" class="dets">
+                    <h2>TechPhoenix</h2>
+                </div>
+            </div>
+            <div id="elem2" class="elem">
+                <img data-scroll data-scroll-speed="1" src="./photo2.jpg"
+                    alt="">
+                    <div data-scroll data-scroll-speed="-1" class="dets">
+                        <h2>DebugDynamo</h2>
+                    </div>
+            </div>
+            <div id="elem3" class="elem">
+                <img data-scroll data-scroll-speed="1" src="./photo3.jpg"
+                    alt="">
+                    <div data-scroll data-scroll-speed="-2" class="dets">
+                        <h2>CodeCraftsman</h2>
+                    </div>
+            </div>
+        </div>
+        <div id="page3">
+            <div class="child" id="child1">
+                <img src="https://gmedia.playstation.com/is/image/SIEPDC/3d-pulse-headset-product-thumbnail-01-en-14sep21?$facebook$"
+                alt="">
+            </div>
+            <div class="child" id="child2">
+                <img src="https://xo3d.co.uk/wp-content/uploads/2023/02/Beats-By-Dre-3D-Rendering-Black.png"
+                    alt="">
+            </div>
+            <div class="child" id="child3">
+                <img src="https://cdn3d.iconscout.com/3d/premium/thumb/laptop-4049806-3364122.png?f=webp"
+                    alt="">
+            </div>
+            <div class="child" id="child4">
+                <img src="https://cdn3d.iconscout.com/3d/premium/thumb/keyboard-6347421-5242123.png"
+                    alt="">
+            </div>
+        </div>
+    </div>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"
+        integrity="sha512-16esztaSRplJROstbIIdwX3N97V1+pZvV33ABoG1H2OyTttBxEGkTsoIVsiP1iaTtM8b3+hu2kB6pQ4Clr5yug=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"
+        integrity="sha512-Ic9xkERjyZ1xgJ5svx3y0u3xrvfT/uPkV99LBwe68xjy/mGtO+4eURHZBW2xW4SZbFrF1Tf090XqB+EVgXnVjw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
