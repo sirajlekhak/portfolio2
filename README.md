@@ -7,7 +7,6 @@ Brief description of your project.
 - [Introduction](#introduction)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
 - [License](#license)
 
