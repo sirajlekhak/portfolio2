@@ -16,7 +16,7 @@ Just for fun and learning.
 
 ## Demo
 
-Provide a link to a live demo or showcase images/videos if applicable.
+Link [https://sirajlekhak.github.io/portfolio2/](visit here for live preview)
 
 ## Installation
 
@@ -33,10 +33,6 @@ Provide a link to a live demo or showcase images/videos if applicable.
     ```
 
 3. Open the project in your favorite code editor.
-
-## Usage
-
-Explain how to use your project, including any configuration settings or parameters.
 
 ## Dependencies
 
